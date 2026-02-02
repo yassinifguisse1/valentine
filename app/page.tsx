@@ -467,8 +467,8 @@ export default function Home() {
         </div>
 
         {/* Question */}
-        <h1 className="text-3xl md:text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-pink-500 mb-8 animate-pulse">
-          kochanie will you be my valentine? 💕
+        <h1 className="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-purple-500 to-pink-500 mb-8 animate-pulse">
+          Kasia Szymanska, kochanie will you be my valentine? 💕
         </h1>
 
         {/* Buttons */}
